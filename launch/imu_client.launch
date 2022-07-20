@@ -1,0 +1,5 @@
+
+<launch>
+        <node pkg="imu_liao" type="client_node" name="client_node" respawn="false" output="screen">
+        </node>
+</launch>
